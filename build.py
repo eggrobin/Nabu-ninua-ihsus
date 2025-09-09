@@ -29,7 +29,7 @@ font.os2_winascent = 900
 font.os2_winascent_add = False
 font.os2_windescent = 200
 font.os2_windescent_add = False
-font.generate("Nabuninuaihsus.otf")
+font.generate("Nabuninuaihsus.ttf")
 font.close()
 
 font = fontforge.open("Nabuninuaihsus.sfd")
@@ -71,12 +71,12 @@ font.os2_windescent_add = False
 font.familyname = "Nabuninuaihsus Sans"
 font.fontname = "NabuninuaihsusSans"
 font.fullname = "Nabuninuaihsus Sans"
-font.generate("Nabuninuaihsus Sans.otf")
+font.generate("Nabuninuaihsus Sans.ttf")
 font.close()
 os.remove("Nabuninuaihsus Sans - TEMP.sfd")
 
 for font_name in ("Nabuninuaihsus", "Nabuninuaihsus Sans"):
-  font = fontforge.open(f"{font_name}.otf")
+  font = fontforge.open(f"{font_name}.ttf")
   for glyph_name in font:
     name = re.sub(r"u([0-9A-F]{5})", lambda name: chr(int(name.group(1), base=16)), glyph_name)
     font[glyph_name].layers[1].export(f"glyphs/{font_name}/{name}.svg")
