@@ -268,3 +268,9 @@ Sometimes contrasted in transliteration, e.g., P334291.
 With our usual 𒆸 like our 𒇧, see, e.g., P394464 = K.2487 from the eBL palæography section.
 Second 𒋙 has its 𒀹 lower than the first for legibility (avoid clashing with the first 𒌍).
 This is what P394464 and P394919 = K.3285 do. Others, e.g., P395050 = K.3499, are horizontally aligned.
+
+# 𒆸𒆸 LAGAB.LAGAB (NIGIN, KILIB₃)
+
+Attested with our usual 𒆸 in K.4003 = P395351, K.4902 = P395776 from the eBL palæography section.
+Straightforward: saw no attestation of lowering of the 𒀹 on the second 𒋙 contrary to 𒇧𒇧,
+and there is no need for it for readability.
