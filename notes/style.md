@@ -262,3 +262,7 @@ Sometimes merged with 𒇯, i.e., missing the 𒌋/𒀹 at the top right, e.g., 
 Compare, e.g., P334001 (Akkullanu), P335667, where it is clear.
 
 Sometimes contrasted in transliteration, e.g., P334291.
+
+# 𒇧𒇧 LAGAB×(U.U.U).LAGAB×(U.U.U) (BUL.BUL, NENNI)
+
+With our usual 𒆸 like our 𒇧, see, e.g., P394464 = K.2487 from the eBL palæography section.

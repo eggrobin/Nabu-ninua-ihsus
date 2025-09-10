@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608649326
-ModificationTime: 1755644686
+ModificationTime: 1757463020
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -89,7 +89,7 @@ Grid
  3198 380 l 1024
   Named: "ash"
 EndSplineSet
-BeginChars: 1098 1098
+BeginChars: 1099 1099
 
 StartChar: u12000
 Encoding: 56 73728 0
@@ -14598,7 +14598,7 @@ StartChar: u1230B_u12306
 Encoding: 1097 -1 1097
 Width: 1127
 VWidth: 1000
-Flags: HWO
+Flags: HW
 VStem: 333.478 27.0928<-0.0380533 186.46> 973.477 27.0928<0.461947 298.167>
 LayerCount: 2
 Fore
@@ -14612,6 +14612,24 @@ Refer: 11 61703 N 1 0 0 1 475 -85 2
 Refer: 11 61703 N 1 0 0 1 475 115 2
 LCarets2: 1 0
 Ligature2: "Standard Ligatures" u1230B u12306
+EndChar
+
+StartChar: u121E7_u121E7
+Encoding: 1098 -1 1098
+Width: 1442
+VWidth: 1000
+Flags: HWO
+VStem: 738.611 27.0928<139.962 436.769> 1290.61 27.0928<-0.0380533 297.667>
+LayerCount: 2
+Fore
+Refer: 17 61709 N 1 0 0 1 460.133 95 2
+Refer: 14 61706 N 1 0 0 1 108.133 140 2
+Refer: 17 61709 N 1 0 0 1 84.1334 -479 2
+Refer: 1058 61715 N 1 0 0 1 139.133 -25 2
+Refer: 1058 61715 N 1 0 0 1 279.133 -25 2
+Refer: 1058 61715 N 1 0 0 1 419.133 -25 2
+Refer: 505 74215 N 1 0 0 1 552.133 0 2
+Ligature2: "Standard Ligatures" u121E7 u121E7
 EndChar
 EndChars
 EndSplineFont
