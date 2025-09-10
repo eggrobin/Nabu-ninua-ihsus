@@ -266,3 +266,5 @@ Sometimes contrasted in transliteration, e.g., P334291.
 # 𒇧𒇧 LAGAB×(U.U.U).LAGAB×(U.U.U) (BUL.BUL, NENNI)
 
 With our usual 𒆸 like our 𒇧, see, e.g., P394464 = K.2487 from the eBL palæography section.
+Second 𒋙 has its 𒀹 lower than the first for legibility (avoid clashing with the first 𒌍).
+This is what P394464 and P394919 = K.3285 do. Others, e.g., P395050 = K.3499, are horizontally aligned.
