@@ -274,3 +274,7 @@ This is what P394464 and P394919 = K.3285 do. Others, e.g., P395050 = K.3499, ar
 Attested with our usual 𒆸 in K.4003 = P395351, K.4902 = P395776 from the eBL palæography section.
 Straightforward: saw no attestation of lowering of the 𒀹 on the second 𒋙 contrary to 𒇧𒇧,
 and there is no need for it for readability.
+
+# 𒀭‍𒂗
+Nice examples in K.6243 = P396403, K.3775 = P395230. The 𒂗 sometimes has staggered 𒋙, as in K.9570 = P238857, but that is also true of standalone 𒂗, see both in K.9644 = P238870, and ours doesn’t do that.
+Sometimes unligated, e.g., P334641, and so ZWJ-only in this font.
