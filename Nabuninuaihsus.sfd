@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
 FontName: Nabuninuaihsus
-FullName: Nabuninuaihsus
-FamilyName: Nabuninuaihsus
+FullName: Nabu-ninua-ihsus
+FamilyName: Nabu-ninua-ihsus
 Weight: Regular
 Copyright: Copyright (c) 2020-2025, Robin Leroy
 UComments: "2020-12-22: Created with FontForge (http://fontforge.org)"
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608649326
-ModificationTime: 1757464538
+ModificationTime: 1757580830
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5

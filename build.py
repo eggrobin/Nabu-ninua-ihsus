@@ -41,9 +41,9 @@ for c in (0xF122, 0xF123, 0xF124, 0xF128, 0xF12A, 0xF132, 0xF133, 0xF137):
   font.selection.none()
   font.selection.select(("unicode",), c - 0x20)
   font.paste()
-font.save("Nabuninuaihsus Sans - TEMP.sfd")
+font.save("NabuninuaihsusSans - TEMP.sfd")
 font.close()
-font = fontforge.open("Nabuninuaihsus Sans - TEMP.sfd")
+font = fontforge.open("NabuninuaihsusSans - TEMP.sfd")
 for glyph_name in font:
   if any (part == "uniF110" for part, transform, _ in font[glyph_name].references):
     font.removeGlyph(glyph_name)
@@ -68,14 +68,14 @@ font.os2_winascent = 900
 font.os2_winascent_add = False
 font.os2_windescent = 200
 font.os2_windescent_add = False
-font.familyname = "Nabuninuaihsus Sans"
+font.familyname = "Nabu-ninua-ihsus Sans"
 font.fontname = "NabuninuaihsusSans"
-font.fullname = "Nabuninuaihsus Sans"
-font.generate("Nabuninuaihsus Sans.ttf")
+font.fullname = "Nabu-ninua-ihsus Sans"
+font.generate("NabuninuaihsusSans.ttf")
 font.close()
-os.remove("Nabuninuaihsus Sans - TEMP.sfd")
+os.remove("NabuninuaihsusSans - TEMP.sfd")
 
-for font_name in ("Nabuninuaihsus", "Nabuninuaihsus Sans"):
+for font_name in ("Nabuninuaihsus", "NabuninuaihsusSans"):
   font = fontforge.open(f"{font_name}.ttf")
   for glyph_name in font:
     name = re.sub(r"u([0-9A-F]{5})", lambda name: chr(int(name.group(1), base=16)), glyph_name)
