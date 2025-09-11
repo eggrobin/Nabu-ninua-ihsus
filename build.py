@@ -3,6 +3,15 @@ import os
 import re
 
 font = fontforge.open("Nabuninuaihsus.sfd")
+old_version = font.version
+major, minor = old_version.removeprefix("Version ").split(".")
+major = int(major)
+minor = int(minor)
+font.version = f"Version {major}.{minor+1}"
+font.save("Nabuninuaihsus.sfd")
+font.close()
+
+font = fontforge.open("Nabuninuaihsus.sfd")
 
 for glyph_name in font:
   if any (part == "uniF110" for part, transform, _ in font[glyph_name].references):
