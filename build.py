@@ -7,7 +7,7 @@ old_version = font.version
 major, minor = old_version.removeprefix("Version ").split(".")
 major = int(major)
 minor = int(minor)
-font.version = f"Version {major}.{minor+1:05}"
+font.version = f"{major}.{minor+1:05}"
 font.save("Nabuninuaihsus.sfd")
 font.close()
 
