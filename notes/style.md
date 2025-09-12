@@ -278,3 +278,8 @@ and there is no need for it for readability.
 # 𒀭‍𒂗
 Nice examples in K.6243 = P396403, K.3775 = P395230. The 𒂗 sometimes has staggered 𒋙, as in K.9570 = P238857, but that is also true of standalone 𒂗, see both in K.9644 = P238870, and ours doesn’t do that.
 Sometimes unligated, e.g., P334641, and so ZWJ-only in this font.
+
+# 𒀭‍𒀝
+See P393769 = K.150, P396575 = K.6491, both with an open 𒀝 like our standalone 𒀝
+and a full-sized 𒁹 from the 𒀭, rather than a closed 𒀝 with a smaller 𒀭 as in Labat.
+Sometimes unligated, e.g., P336679 (Balasî and Bamaya), P238494 (Šamaš-šumu-ukin), and so ZWJ-only in this font.
