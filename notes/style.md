@@ -283,3 +283,9 @@ Sometimes unligated, e.g., P334641, and so ZWJ-only in this font.
 See P393769 = K.150, P396575 = K.6491, both with an open 𒀝 like our standalone 𒀝
 and a full-sized 𒁹 from the 𒀭, rather than a closed 𒀝 with a smaller 𒀭 as in Labat.
 Sometimes unligated, e.g., P336679 (Balasî and Bamaya), P238494 (Šamaš-šumu-ukin), and so ZWJ-only in this font.
+
+# 𒅆𒂠 LIBIR
+Described in Borger as IGI-ŠÈ, but shown with the same glyph as U₃.
+See also LAK 434.
+This is accurate, see, e.g., http://oracc.org/saao/P335664.19,
+http://oracc.org/dcclt/P382243.244.
