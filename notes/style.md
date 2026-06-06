@@ -289,3 +289,6 @@ Described in Borger as IGI-ŠÈ, but shown with the same glyph as U₃.
 See also LAK 434.
 This is accurate, see, e.g., http://oracc.org/saao/P335664.19,
 http://oracc.org/dcclt/P382243.244.
+
+# 𒉛
+From http://oracc.org/dcclt/P382242.252.
