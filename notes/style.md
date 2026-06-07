@@ -291,4 +291,13 @@ This is accurate, see, e.g., http://oracc.org/saao/P335664.19,
 http://oracc.org/dcclt/P382243.244.
 
 # 𒉛
-From http://oracc.org/dcclt/P382242.252.
+From http://oracc.org/dcclt/P382242.252, note 𒀭 inside the 𒉒.
+(Should the sign name in Oracc get updated? Should there be a glyph erratum?)
+
+# 𒉒
+Quite rare in NA.
+Sometimes with a centred 𒌋 as in the 𒉒×X signs, e.g.,
+http://oracc.org/dcclt/P238324.28,
+more often as in the index form of modern sign lists,
+(𒁁&𒀸).(𒀸&𒀸).
+Let’s go with the latter.

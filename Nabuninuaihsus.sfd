@@ -5,7 +5,7 @@ FamilyName: Nabu-ninua-ihsus
 Weight: Regular
 Copyright: Copyright (c) 2020-2025, Robin Leroy
 UComments: "2020-12-22: Created with FontForge (http://fontforge.org)"
-Version: 1.00007
+Version: 1.00008
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608649326
-ModificationTime: 1780768600
+ModificationTime: 1780791125
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,7 +57,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 238 34 16
+WinInfo: 578 34 16
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -8337,14 +8337,15 @@ EndChar
 
 StartChar: u12252
 Encoding: 650 74322 612
-Width: 1000
+Width: 1395
 VWidth: 1000
-Flags: W
-HStem: 0 21G<0 124.743 875.257 1000>
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 139 61712 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 15 61707 N 1 0 0 1 949.946 -65 2
+Refer: 15 61707 N 1 0 0 1 949.946 165 2
+Refer: 10 61702 N 1 0 0 1 284.946 -135 2
+Refer: 83 73793 N 1 0 0 1 -0.0537109 95 2
 EndChar
 
 StartChar: u12253
